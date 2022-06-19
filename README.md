@@ -1,6 +1,6 @@
 # screentest
 
-Screen Test Suit Media
+Screening Test - Android Developer Suitmedia 
 
 ## Getting Started
 
